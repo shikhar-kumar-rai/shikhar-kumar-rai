@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shikhar-kumar-rai
-- 👀 I’m interested in data anlyst
+- 👀 I’m interested in data analyst
 - 🌱 I’m currently learning python,tablue,sql,data visualization,excel, data analysis 
 - 💞️ I’m looking to collaborate on data analyst related work
 - 📫 How to reach me through my mail shikharkrai@gmail.com
